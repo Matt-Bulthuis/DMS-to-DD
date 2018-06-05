@@ -1,2 +1,3 @@
 # DMS-to-DD
-(Coordinates) Degrees Minutes Seconds to Decimal Degrees
+(Coordinates) Converts degrees minutes seconds to decimal degrees.
+UNG app development 4500k
